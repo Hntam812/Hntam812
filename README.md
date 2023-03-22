@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**Hntam812/Hntam812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Introduction
+Hello there! My name is Demi and I am a data scientist with a passion for problem-solving and exploring new data-driven techniques. I am excited to be part of the data science community and have been working on several projects in this field.
 
-Here are some ideas to get you started:
+Background
+I have a Bachelor's degree in Mechatronics and a Master's degree in Data Science. During my academic career, I had the opportunity to work on several research projects that involved data analysis and interpretation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Professional Experience
+Currently, I am working as a Data Scientist at Groupe SEB, where I am responsible for developing and implementing predictive models, analyzing large datasets, and communicating findings to stakeholders. Additionally, I am constantly exploring new machine learning and statistical techniques to improve the accuracy and efficiency of our models.
+
+Skillset
+My skillset includes proficiency in programming languages such as Python and R, database management, statistical modeling, data visualization, and machine learning techniques such as neural networks and decision trees.
+
+Interests
+Outside of work, I enjoy participating in data science competitions, attending workshops and conferences, and reading research papers to stay up to date with the latest advancements in the field.
+
+Contact
+If you have any questions or would like to connect, please feel free to reach out to me via [Your Contact Information].
