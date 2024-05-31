@@ -2,5 +2,5 @@
 
 ### Introduction
 
-🗃️I am Self taught Data Analytics | Machine Learning 
+🗃️I am self-taught Data Analytics | Machine Learning 
 
